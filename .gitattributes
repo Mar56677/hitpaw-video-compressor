@@ -1,0 +1,10 @@
+src/**/*.ts linguist-detectable
+*.ts linguist-detectable
+go.sum linguist-generated
+examples/site/*.html linguist-vendored
+
+node_modules/* linguist-vendored
+
+yarn.lock linguist-generated
+*.md linguist-documentation
+*.html linguist-vendored
